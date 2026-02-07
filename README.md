@@ -73,8 +73,7 @@ plt.title("Logistic Regression using Gradient Descent")
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
-
+<img width="621" height="526" alt="image" src="https://github.com/user-attachments/assets/f3825b12-5f0d-4a21-9df9-ca8a83e71197" />
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
